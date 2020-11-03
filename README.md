@@ -5,7 +5,6 @@ TWO GOALS IN THIS README
 2. relate steps to andrew etter
 
 ## Table of Contents
----
 - [Introduction](#Introduction)
 - [Prerequisites](#Prerequisites)
 - [Instructions](#Instructions)
