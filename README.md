@@ -6,17 +6,17 @@ TWO GOALS IN THIS README
 
 ## Table of Contents
 ---
-- [Introduction](##Introduction)
-- [Prerequisites](##Prerequisites)
-- [Instructions](##Instructions)
-    - [Getting Started](###1.-Getting-Started)
-    - [Creating a Repository](###2.-Creating-A-Repository)
-    - [Write Resume in Markdown](###3.-Write-Resume-In-Markdown)
-    - [Creating an index.md file](###4.-creating-an-index.md-file)
-    - [Use a Static Site Generator](###5.-use-a-static-site-generator)
-- [More Resources](##More-Resources)
-- [Authors and Acknowledgments](##Authors-and-Acknowledgments)
-- [Frequently Asked Questions](##FAQs)
+- [Introduction](#Introduction)
+- [Prerequisites](#Prerequisites)
+- [Instructions](#Instructions)
+    - [Getting Started](#1.-Getting-Started)
+    - [Creating a Repository](#2.-Creating-A-Repository)
+    - [Write Resume in Markdown](#3.-Write-Resume-In-Markdown)
+    - [Creating an index.md file](#4.-creating-an-index.md-file)
+    - [Use a Static Site Generator](#5.-use-a-static-site-generator)
+- [More Resources](#More-Resources)
+- [Authors and Acknowledgments](#Authors-and-Acknowledgments)
+- [Frequently Asked Questions](#FAQs)
 
 
 ## Introduction
@@ -60,7 +60,7 @@ Once you're logged onto your GitHub account, you want to create a new repository
 
 
 ### **3. Write Resume in Markdown**
-At this stage, it's reccomended that you write or have your resume in Markdown. Although you can write Markdown in any text editor, using a markdown editor will help a lot and help you become more efficient with your writing. Many Markdown editors have a live preview, so you can type Markdown and see a live preview on the side. Some Markdown editors include Atom and Visual Studio Code. More text and Markdown editors can be found in [More Resources](##More-Resources).
+At this stage, it's reccomended that you write or have your resume in Markdown. Although you can write Markdown in any text editor, using a markdown editor will help a lot and help you become more efficient with your writing. Many Markdown editors have a live preview, so you can type Markdown and see a live preview on the side. Some Markdown editors include Atom and Visual Studio Code. More text and Markdown editors can be found in [More Resources](#More-Resources).
 
 Here's an image of Visual Studio Code used to write Markdown with a live preview on the side.  
 <img src=https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png width="640"/>
