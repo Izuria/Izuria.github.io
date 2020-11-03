@@ -44,15 +44,15 @@ Have you ever wanted to host a resume on the web? An easy way to do this is thro
 ---
 
 ### **1. Getting Started**
-If you don't know any Markdown knowledge or are wanting to refresh on your Markdown skills, this [tutorial][tutorial] will help. Andrew Etter 
+If you don't know any Markdown knowledge or are wanting to refresh on your Markdown skills, this [tutorial][tutorial] will help. 
 
-To begin, you want to have a GitHub account. GitHub is a code hosting website that uses a Distributed Version Control System (DVCS), where each developer can have their own repository and synchronize with each other. It helps track changes, carries metadata and maintains history for potential roll-backs to a past state. Andrew Etter says that DVCS have better performance compared to other VCS, allows for offline work, and are superior for concurrent work on the same file.
+Andrew Etter talks about Markdown, saying that it's an easy to learn markup language 
 
+To begin, you want to have a GitHub account. GitHub is a code hosting website that uses a Distributed Version Control System (DVCS), where each developer can have their own repository and synchronize with each other. It helps track changes, carries metadata and maintains history for potential roll-backs to a past state. 
 
-//GitHub is special in a way in which all of the data is distributed through a central server (GitHub's server). 
+Andrew Etter says that DVCS have better performance compared to other VCS, allows for offline work, and are superior for concurrent work on the same file.
 
-
-If you do not have an account yet, you can click here to redirect you to the registration page.
+If you do not have a GitHub account yet, you can click here to redirect you to the registration page.
 
 
 ### **2. Creating a repository**
@@ -62,18 +62,18 @@ Once you're logged onto your GitHub account, you want to create a new repository
 ### **3. Write Resume in Markdown**
 At this stage, it's reccomended that you write or have your resume in Markdown. Although you can write Markdown in any text editor, using a markdown editor will help a lot and help you become more efficient with your writing. Many Markdown editors have a live preview, so you can type Markdown and see a live preview on the side. Some Markdown editors include Atom and Visual Studio Code. More text and Markdown editors can be found in [More Resources](##More-Resources).
 
-<p align="center">Here's an image of Visual Studio Code used to write Markdown.</p>
+Here's an image of Visual Studio Code used to write Markdown with a live preview on the side.  
+<img src=https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png width="640"/>
 
-<p align="center">
-  <img src=https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png width="640"/>
-</p>
+
 
 
 
 
 ### **4. Creating an index.md file**
-From here, you want to create an index.md file. The index.md file will be the front page of our website, and in this example, will contain the content of the resume we wrote in Markdown. If you followed step 3, you should have your resume written in Markdown. From here, you can simply copy the content of your new resume and paste it into your index.md file.
+From here, you want to create an index.md file. The index.md file will be the front page of our website, and in this tutorial, will contain the content of the resume we wrote in Markdown. If you followed step 3, you should have your resume written in Markdown. From here, you can simply copy the content of your new resume and paste it into your index.md file.  
 
+![sickImage](https://github.com/Izuria/Izuria.github.io/blob/main/images/leu14xOVrS.gif)
 
 ### **5. Use a static site generator**
 Now that we're at this stage, we can use Jekyll. Jekyll is a static site generator that creates a theme and template for your site, and has built-in support for GitHub pages. Static site generator basically processes content and themes you give them.
