@@ -64,7 +64,7 @@ At this stage, it's reccomended that you write or have your resume in Markdown. 
 
 <center>Here's an image of Visual Studio Code used to write Markdown.</center>
 <p align="center">
-  <img src=https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png" width="640"/>
+  <img src=https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png width="640"/>
 </p>
 
 
