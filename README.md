@@ -62,8 +62,10 @@ Once you're logged onto your GitHub account, you want to create a new repository
 ### **3. Write Resume in Markdown**
 At this stage, it's reccomended that you write or have your resume in Markdown. Although you can write Markdown in any text editor, using a markdown editor will help a lot and help you become more efficient with your writing. Many Markdown editors have a live preview, so you can type Markdown and see a live preview on the side. Some Markdown editors include Atom and Visual Studio Code. More text and Markdown editors can be found in [More Resources](##More-Resources).
 
-Here's an image of Visual Studio Code used to write Markdown.
-<img src="https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png" width="640">
+<center>Here's an image of Visual Studio Code used to write Markdown.</center>
+<p align="center">
+  <img src=https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png" width="640"/>
+</p>
 
 
 
