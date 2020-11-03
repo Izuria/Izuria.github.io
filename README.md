@@ -5,7 +5,7 @@ TWO GOALS IN THIS README
 2. relate steps to andrew etter
 
 ## Table of Contents
----
+
 - [Introduction](##Introduction)
 - [Prerequisites](##Prerequisites)
 - [Instructions](##Instructions)
@@ -20,12 +20,12 @@ TWO GOALS IN THIS README
 
 
 ## Introduction
----
+
 Have you ever wanted to host a resume on the web? An easy way to do this is through using GitHub pages. GitHub Pages are public webpages and websites that are hosted through GitHub, for everyone to view publicly on the internet. In this tutorial, we'll go through some prerequisites, and instructions on how to host your own resume on the internet using GitHub. We will be combining Andrew Etter's book Modern Technical Writing in our instructions, explaining why we use these tools, etc.
 
 
 ## Prerequisites
----
+
 
 ### **Required**
 - Knowledge of Markdown
@@ -41,7 +41,6 @@ Have you ever wanted to host a resume on the web? An easy way to do this is thro
 
 
 ## Instructions
----
 
 ### **1. Getting Started**
 If you don't know any Markdown knowledge or are wanting to refresh on your Markdown skills, this [tutorial][tutorial] will help. Andrew Etter
@@ -56,7 +55,7 @@ Once you're logged onto your GitHub account, you want to create a new repository
 ### **3. Write Resume in Markdown**
 At this stage, it's reccomended that you write or have your resume in Markdown. Although you can write Markdown in any text editor, using a markdown editor will help a lot and help you become more efficient with your writing. Many Markdown editors have a live preview, so you can type Markdown and see a live preview on the side. Some Markdown editors include Atom and Visual Studio Code. More text and Markdown editors can be found in [More Resources](##More-Resources).
 
-<img src="https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png" width="480">
+<img src="https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png" width="640">
 
 
 
@@ -73,19 +72,18 @@ The easiest way to use Jekyll for GitHub Pages would be by going to your reposit
 When doing it the easy way, you should have a _config.yml file in your repository. This is a configuation file, and documentation can be found [here][configdoc], or in more resources.
 
 ## More Resources
----
+
 - [GitHub Pages][githubpages]
 - [Markdown Tutorial][tutorial]
 - [Jekyll Configuration Documentation][configdoc]
 - LINK
 
 ## Authors and Acknowledgments
----
 
 
 
 ## FAQs
----  
+
 
 ### **Why should we use Markdown instead of a word processor?**"  
 ---
