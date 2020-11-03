@@ -75,6 +75,8 @@ When doing it the easy way, you should have a _config.yml file in your repositor
 
 > Andrew Etter says that he loves static websites, noting their speed, simplicity, portability, and security. This is true, as static websites are "static" and have a fixed content for every user, compared to dynamic websites that use Javascript or HTML5 to build different content for different users.
 
+    Andrew Etter says that he loves static websites, noting their speed, simplicity, portability, and security. This is true, as static websites are "static" and have a fixed content for every user, compared to dynamic websites that use Javascript or HTML5 to build different content for different users.
+
 ## More Resources
 - [GitHub Pages][githubpages]
 - [Markdown Tutorial][tutorial]
