@@ -68,15 +68,14 @@ Here's an image of Visual Studio Code used to write Markdown with a live preview
 
 
 
-
-
 ### **4. Creating an index.md file**
 From here, you want to create an index.md file. The index.md file will be the front page of our website, and in this tutorial, will contain the content of the resume we wrote in Markdown. If you followed step 3, you should have your resume written in Markdown. From here, you can simply copy the content of your new resume and paste it into your index.md file.  
 
-![sickImage](https://github.com/Izuria/Izuria.github.io/blob/main/images/leu14xOVrS.gif)
-
 ### **5. Use a static site generator**
 Now that we're at this stage, we can use Jekyll. Jekyll is a static site generator that creates a theme and template for your site, and has built-in support for GitHub pages. Static site generator basically processes content and themes you give them.
+
+![sickImage](https://github.com/Izuria/Izuria.github.io/blob/main/images/leu14xOVrS.gif)
+
 
 The easiest way to use Jekyll for GitHub Pages would be by going to your repository, press the settings button, scroll to the section "GitHub Pages", and to select the theme chooser. You can choose from a preset selection of themes, and then apply it.
 
