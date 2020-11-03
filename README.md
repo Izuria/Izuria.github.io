@@ -1,9 +1,5 @@
 # How To Host a Resume on GitHub Pages
 
-TWO GOALS IN THIS README
-1. how to host resume on github
-2. relate steps to andrew etter
-
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Prerequisites](#Prerequisites)
@@ -11,7 +7,7 @@ TWO GOALS IN THIS README
     - [Getting Started](#1-Getting-Started)
     - [Creating a Repository](#2-Creating-A-Repository)
     - [Write Resume in Markdown](#3-Write-Resume-In-Markdown)
-    - [Creating an index.md file](#4-creating-an-index.md-file)
+    - [Creating an index.md file](#4-creating-an-indexmd-file)
     - [Use a Static Site Generator](#5-use-a-static-site-generator)
 - [More Resources](#More-Resources)
 - [Authors and Acknowledgments](#Authors-and-Acknowledgments)
