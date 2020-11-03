@@ -9,23 +9,21 @@ TWO GOALS IN THIS README
 - [Introduction](#Introduction)
 - [Prerequisites](#Prerequisites)
 - [Instructions](#Instructions)
-    - [Getting Started](#1.-Getting-Started)
-    - [Creating a Repository](#2.-Creating-A-Repository)
-    - [Write Resume in Markdown](#3.-Write-Resume-In-Markdown)
-    - [Creating an index.md file](#4.-creating-an-index.md-file)
-    - [Use a Static Site Generator](#5.-use-a-static-site-generator)
+    - [Getting Started](#1-Getting-Started)
+    - [Creating a Repository](#2-Creating-A-Repository)
+    - [Write Resume in Markdown](#3-Write-Resume-In-Markdown)
+    - [Creating an index.md file](#4-creating-an-index.md-file)
+    - [Use a Static Site Generator](#5-use-a-static-site-generator)
 - [More Resources](#More-Resources)
 - [Authors and Acknowledgments](#Authors-and-Acknowledgments)
 - [Frequently Asked Questions](#FAQs)
 
 
 ## Introduction
----
 Have you ever wanted to host a resume on the web? An easy way to do this is through using GitHub pages. GitHub Pages are public webpages and websites that are hosted through GitHub, for everyone to view publicly on the internet. In this tutorial, we'll go through some prerequisites, and instructions on how to host your own resume on the internet using GitHub. We will be combining Andrew Etter's book Modern Technical Writing in our instructions, explaining why we use these tools, etc.
 
 
 ## Prerequisites
----
 
 ### **Required**
 - Knowledge of Markdown
@@ -41,7 +39,6 @@ Have you ever wanted to host a resume on the web? An easy way to do this is thro
 
 
 ## Instructions
----
 
 ### **1. Getting Started**
 If you don't know any Markdown knowledge or are wanting to refresh on your Markdown skills, this [tutorial][tutorial] will help. 
@@ -84,19 +81,16 @@ When doing it the easy way, you should have a _config.yml file in your repositor
 Andrew Etter says that he loves static websites, noting their speed, simplicity, portability, and security. This is true, as static websites are "static" and have a fixed content for every user, compared to dynamic websites that use Javascript or HTML5 to build different content for different users.
 
 ## More Resources
----
 - [GitHub Pages][githubpages]
 - [Markdown Tutorial][tutorial]
 - [Jekyll Configuration Documentation][configdoc]
 - LINK
 
 ## Authors and Acknowledgments
----
 
 
 
 ## FAQs
----  
 
 ### **Why should we use Markdown instead of a word processor?**"  
 ---
