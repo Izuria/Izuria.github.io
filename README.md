@@ -15,7 +15,9 @@
 
 
 ## Introduction
-Have you ever wanted to host a resume on the web? An easy way to do this is through using GitHub pages. GitHub Pages are public webpages and websites that are hosted through GitHub, for everyone to view publicly on the internet. In this tutorial, we'll go through some prerequisites, and instructions on how to host your own resume on the internet using GitHub. We will be combining Andrew Etter's book Modern Technical Writing philosophies and protocols in our instructions, explaining why we use these tools, etc.
+Have you ever wanted to host a resume on the web? An easy way to do this is through using GitHub Pages. GitHub Pages are public webpages and websites that are hosted through GitHub, for everyone to view publicly on the internet. In this tutorial, we'll go through some prerequisites, and instructions on how to host your own resume on the internet using GitHub. We will be combining Andrew Etter's book Modern Technical Writing philosophies and protocols in our instructions, explaining why we use these tools, etc.
+
+You can view an example of a resume hosted on GitHub Pages [here](https://izuria.github.io/).
 
 
 ## Prerequisites
