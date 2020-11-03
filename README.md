@@ -24,15 +24,11 @@ You can view an example of a resume hosted on GitHub Pages [here](https://izuria
 ### **Required**
 - Knowledge of Markdown
 - A GitHub account
-- A resume
+- A resume written in Markdown
 
 ### **Recommended**
  - A Markdown editor
  - Basic knowledge with Jekyll
- - Resume written in Markdown
-
-
-
 
 ## Instructions
 
@@ -54,28 +50,38 @@ If you do not have a GitHub account yet, you can [click here](https://github.com
 
 
 ### **2. Creating a repository**
-Once you're logged onto your GitHub account, you want to create a new repository. A repository is basically a folder hosted on GitHub, which contains all of your project's files and stores metadata relating to it. To follow the steps, go to GitHub.com, click on the "+" sign at the top right, and click new repository. From here, you **must** name your repository as _username_.github.io, where _username_ is your GitHub username. **If you don't name your repository after your username, then your page will not show up on the internet.** Once you finish creating your repository, you can visit the your GitHub page on _username_.github.io, where _username_ is your GitHub username.
+Once you're logged onto your GitHub account, you want to create a new repository. A repository is basically a folder hosted on GitHub, which contains all of your project's files and stores metadata relating to it. 
 
+1. On GitHub.com, click on the "+" sign at the top right, and then press new repository.
+2. you **must** name your repository as _username_.github.io, where _username_ is your GitHub username. **If you don't name your repository after your username, then your page will not show up on the internet.**
 
+Once you finish creating your repository, you can visit the your GitHub page on _username_.github.io, where _username_ is your GitHub username.
 
 
 ### **3. Creating an index.md file**
-From here, you want to create an index.md file. The index.md file will be the front page of our website, and in this tutorial, will contain the content of the resume we wrote in Markdown. If you followed step 3, you should have your resume written in Markdown. From here, you can simply copy the content of your new resume and paste it into your index.md file.  
+From here, you want to create an index.md file. The index.md file will be the front page of our website, and in this tutorial, will contain the content of the resume we wrote in Markdown. From here, if you want your front page to be your resume, you can simply copy the content of your new resume and paste it into your index.md file.
 
 ### **4. Use a static site generator**
-Now that we're at this stage, we can use Jekyll. Jekyll is a static site generator that creates a theme and template for your site, and has built-in support for GitHub pages. Static site generator basically processes content and themes you give them.
+Now that we're at this stage, we can use Jekyll. Jekyll is a static site generator that creates a theme and template for your site, and has built-in support for GitHub pages. Static site generator basically processes content and themes you give them.  
 
+The easiest way to use Jekyll for GitHub Pages would be:
+1. Go to your repository and press settings.
+2. Scroll to the section "GitHub Pages", and to select the theme chooser. 
+3. Choose from a preset selection of themes, and then apply it.
+
+
+Here's a GIF to follow the steps   
 ![sickImage](https://github.com/Izuria/Izuria.github.io/blob/main/images/leu14xOVrS.gif)
 
-
-The easiest way to use Jekyll for GitHub Pages would be by going to your repository, press the settings button, scroll to the section "GitHub Pages", and to select the theme chooser. You can choose from a preset selection of themes, and then apply it.
-
-When doing it the easy way, you should have a _config.yml file in your repository. This is a configuation file, and documentation can be found [here][configdoc], or in more resources.
+When doing it this way, a _config.yml file should be generated in your repository. This is a configuation file, and documentation can be found [here][configdoc], or in more resources. Edit your _config.yml and add these lines.
+```yml
+title: <your name> Resume
+```
 
 
 > Andrew Etter says that he loves static websites, noting their speed, simplicity, portability, and security. This is true, as static websites are "static" and have a fixed content for every user, compared to dynamic websites that use Javascript or HTML5 to build different content for different users.
 
-    Andrew Etter says that he loves static websites, noting their speed, simplicity, portability, and security. This is true, as static websites are "static" and have a fixed content for every user, compared to dynamic websites that use Javascript or HTML5 to build different content for different users.
+
 
 ## More Resources
 - [GitHub Pages][githubpages]
