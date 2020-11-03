@@ -10,12 +10,12 @@
     - [Creating an index.md file](#4-creating-an-indexmd-file)
     - [Use a Static Site Generator](#5-use-a-static-site-generator)
 - [More Resources](#More-Resources)
-- [Authors and Acknowledgments](#Authors-and-Acknowledgments)
+- [Authors and Acknowledgments](#Authors-and-Acknowledgments)   
 - [Frequently Asked Questions](#FAQs)
 
 
 ## Introduction
-Have you ever wanted to host a resume on the web? An easy way to do this is through using GitHub pages. GitHub Pages are public webpages and websites that are hosted through GitHub, for everyone to view publicly on the internet. In this tutorial, we'll go through some prerequisites, and instructions on how to host your own resume on the internet using GitHub. We will be combining Andrew Etter's book Modern Technical Writing in our instructions, explaining why we use these tools, etc.
+Have you ever wanted to host a resume on the web? An easy way to do this is through using GitHub pages. GitHub Pages are public webpages and websites that are hosted through GitHub, for everyone to view publicly on the internet. In this tutorial, we'll go through some prerequisites, and instructions on how to host your own resume on the internet using GitHub. We will be combining Andrew Etter's book Modern Technical Writing philosophies and protocols in our instructions, explaining why we use these tools, etc.
 
 
 ## Prerequisites
@@ -44,7 +44,7 @@ To begin, you want to have a GitHub account. GitHub is a code hosting website th
 
 Andrew Etter says that DVCS have better performance compared to other VCS, allows for offline work, and are superior for concurrent work on the same file.
 
-If you do not have a GitHub account yet, you can click here to redirect you to the registration page.
+If you do not have a GitHub account yet, you can [click here](https://github.com/join) to redirect you to the registration page.
 
 
 ### **2. Creating a repository**
@@ -52,7 +52,7 @@ Once you're logged onto your GitHub account, you want to create a new repository
 
 
 ### **3. Write Resume in Markdown**
-At this stage, it's reccomended that you write or have your resume in Markdown. Although you can write Markdown in any text editor, using a markdown editor will help a lot and help you become more efficient with your writing. Many Markdown editors have a live preview, so you can type Markdown and see a live preview on the side. Some Markdown editors include Atom and Visual Studio Code. More text and Markdown editors can be found in [More Resources](#More-Resources).
+At this stage, it's reccomended that you write or have your resume in Markdown. Although you can write Markdown in any text editor, using a markdown editor will help a lot and help you become more efficient with your writing. Many Markdown editors have a live preview, so you can type Markdown and see a live preview on the side. Some Markdown editors include Atom and Visual Studio Code. More text and Markdown editors can be found in [More Resources](#More-Resources).a
 
 Here's an image of Visual Studio Code used to write Markdown with a live preview on the side.  
 <img src=https://github.com/Izuria/Izuria.github.io/blob/main/images/Code_EOZkElLxBS.png width="640"/>
@@ -79,26 +79,32 @@ Andrew Etter says that he loves static websites, noting their speed, simplicity,
 - [GitHub Pages][githubpages]
 - [Markdown Tutorial][tutorial]
 - [Jekyll Configuration Documentation][configdoc]
-- LINK
+- [Andrew Etter's book][etterbook]
 
 ## Authors and Acknowledgments
 
+Group Members
+1. David Le
+2. Jai Sandhu
+3. Connor Hryhoruk
+4. Huayi Chen
 
 
 ## FAQs
 
 ### **Why should we use Markdown instead of a word processor?**"  
----
 WIP
 
 ### **"Why is my resume not showing up??"**
----
-WIP
+If your resume is not showing up, these are some potential issues:  
+1. Your repository is not named after your username.
+2. Your index.md is not in the main/master branch.
+3. Just wait a few minutes. Sometimes your webpage hosted on GitHub Pages take a while to update.
 
 ### **"Can i change my website name/URL??"**
----
-WIP
+If you own a custom domain, you can change the default domain to one you own. [Click here](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site) for more details.
 
+[etterbook]:https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 [githubpages]:https://pages.github.com/
 [tutorial]:https://www.markdowntutorial.com/
 [configdoc]:https://jekyllrb.com/docs/configuration/
