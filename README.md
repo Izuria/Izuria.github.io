@@ -63,7 +63,7 @@ Once you finish creating your repository, you can visit the your GitHub page on 
 From here, you want to create an index.md file. The index.md file will be the front page of our website, and in this tutorial, will contain the content of the resume we wrote in Markdown. From here, if you want your front page to be your resume, you can simply copy the content of your new resume and paste it into your index.md file.
 
 ### **4. Use a static site generator**
-Now that we're at this stage, we can use Jekyll. Jekyll is a static site generator that creates a theme and template for your site, and has built-in support for GitHub pages. Static site generator basically processes content and themes you give them.  
+Now that we're at this stage, we can use Jekyll. Jekyll is a static site generator that creates a theme and template for your site, and has built-in support for GitHub pages. Static site generator basically processes the data (Markdown) and a theme of your choosing and fills out the template for you.
 
 The easiest way to use Jekyll for GitHub Pages would be:
 1. Go to your repository and press settings.
@@ -79,6 +79,7 @@ When doing it this way, a _config.yml file should be generated in your repositor
 title: <your name> Resume
 ```
 
+Once finished, visit your GitHub pages website at _username_.github.io and check out your resume!
 
 > Andrew Etter advocates for static websites, noting their speed, simplicity, portability, and security. They have no dependencies, generally no databases, and nothing to install. I agree with Etter, in which their speed, simplicity, and security make it great, as static websites are "static" and have fixed content for every user, compared to dynamic websites that use Javascript or HTML5 to build different content for different users.
 
